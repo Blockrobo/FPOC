@@ -16,7 +16,7 @@ Our aim is to create an extensive resource for researchers, students, and enthus
 ## Getting Started
 To engage with this vault, follow these instructions:
 
-1. **Clone the Repository**: `git clone [repository URL]`.
+1. **Clone the Repository**: `git clone https://github.com/Blockrobo/data-humanism.git`.
 2. **Access the Vault**: Open the cloned repository folder.
 3. **Browse and Contribute**: Explore the papers, contribute new ones, or modify existing tags and categories.
 
