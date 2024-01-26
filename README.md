@@ -36,10 +36,10 @@ Community contributions are highly valued! Here’s how to contribute:
 - [Additional relevant categories]
 
 ## License
-[Specify the license, e.g., MIT, GPL, etc.]
+	AFL-3.0
 
 ## Contact and Support
-For any form of support, queries, or collaboration proposals, please contact [Your Name or Contact Information].
+For any form of support, queries, or collaboration proposals, please contact roberto.honegger@uzh.ch.
 
 ---
 
